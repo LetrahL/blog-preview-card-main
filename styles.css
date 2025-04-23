@@ -13,7 +13,7 @@ body {
     max-width: 320px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
-    box-shadow: 5px 5px rgb(0 0 0 / 94%);
+    box-shadow: 3px 8px 8px rgba(0, 0, 0, 0.979);
     padding: 20px;
 }
        
@@ -78,6 +78,10 @@ body {
     font-size: 14px;
     color: hsl(0, 0%, 42%);
     font-weight: 500;
+}
+.attribution {
+    position: fixed;
+    bottom: 0;
 }
 
 
